@@ -62,5 +62,5 @@ Developed by: Sangeeth J RegisterNumber: 25016967
 **TIMING DIGRAMS FOR SISO Shift Register**
 ![alt text](<Screenshot 2025-12-15 135651.png>)
 
-**RESULTS**
+**RESULTS:**
 Thus the SERIAL-IN-SERIAL-OUT-SHIFTREGISTER circuit is designed and the truth tables is verified using Quartus software.
