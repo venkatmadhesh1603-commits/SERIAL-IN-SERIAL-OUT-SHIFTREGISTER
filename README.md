@@ -53,7 +53,7 @@ end
 endmodule
 ```
 
-Developed by: Madhesh V RegisterNumber: 25014651
+Developed by: Madhesh V RegisterNumber: 25016451
 
 
 **RTL LOGIC FOR SISO Shift Register**
